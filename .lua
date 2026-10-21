@@ -1,6 +1,3 @@
-
---deobf by cimkarta https://discord.gg/S8BQWyjyvN
-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 
 local LocalPlatform = Instance.new("Part")
